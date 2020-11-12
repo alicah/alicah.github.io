@@ -1,0 +1,65 @@
+#karte {
+    width:800px;
+    height:650px;
+    background-color:aliceblue;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#kopf {
+   height:600px;
+}
+
+#profil {
+    background-color:aliceblue;
+    padding-top: 50px;
+    width:700px;
+    height:500px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+#profil_img {
+    width:200px;
+    height:200px;
+    overflow:hidden;
+    border-radius:100%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:20px;
+}
+
+#profil_img img {
+    width:300px;
+    margin-left: -50px;
+    margin-top: -50px;
+}
+
+ul {
+     width: 218px;
+     margin: 0 auto;
+     padding: 0;
+    text-align: left;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 100%;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+    margin-top:20px;
+}
+
+.fa-instagram {
+    background:linear-gradient(-70deg, #8a3ab9, #e95950, #bc2a8d, #fccc63, #fbad50, #cd486b, #4c68d7);
+    color: black;
+    margin-top: 20px;
+}
